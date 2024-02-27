@@ -1,5 +1,5 @@
 public class Main{
-      public static voin main(String args[]) {
+      public static void main(String args[]) {
             int a=10;
             if(a<10)
             System.out.println("number is less then 10");
